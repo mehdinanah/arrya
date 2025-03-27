@@ -164,13 +164,13 @@ color: white;
     }
     .tch{
         display: flex;
-        justify-content: center;
-        align-items: center;
+        justify-content: center; */
+         align-items: center;
         flex-direction: column;
         gap: 20px;
         padding: 20px;
     }
-    .img{
+    .sora{
         padding: 50px;
     }
     .tch i{
@@ -180,6 +180,64 @@ color: white;
     color: gray;
     font-weight: normal;
     }
+    .fotre{
+        background-color: rgb(251, 249, 249);
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .w{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    
+
+    }
+    .w h6{
+color: grey;
+    }
+    .w h1{
+font-size: 19px;
+text-align: center;
+    }
+    .x{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 20px;
+        gap: 10px;
+    }
+    input{
+        width: 100%;
+        height: 30px;
+    }
+    button{
+        background-color: rgb(75, 0, 128);
+        width: 100%;
+        height: 30px;
+        border: none;
+    }
+    .x p{
+color: grey;
+display: flex;
+justify-content: center;
+text-align: center;
+    }
+    .q{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 450px;
+        color: grey;
+    }
+    .q h3{
+color: blueviolet;
+    }
+    
     @media (max-width: 425px){
      .B{
 
@@ -190,8 +248,11 @@ color: white;
             padding: 0px; 
             
         }
+       
+        
+        
         .B h1{
-font-size: 40px;
+        font-size: 40px;
         }
 
         .tch{
@@ -199,10 +260,42 @@ font-size: 40px;
             display: flex;
             align-items: center;
             justify-content: center;
+            padding-left: 40px;
             
 
         }
+        .fotre{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            
+        }
+        .q{
+            display: none;
+        }
+        .parent{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            
+    
+            
+         
+            
+        }
+        .parentsec{
+            
+        }
+        .sora{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 10px;
         
+            
+        }
+    
          }
     
     
