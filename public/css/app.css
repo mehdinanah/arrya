@@ -179,12 +179,11 @@ color: white;
     .tch p{
     color: gray;
     font-weight: normal;
-<<<<<<< HEAD
     } 
-=======
-    }
+    
     .fotre{
-        background-color: rgb(251, 249, 249    padding: 20px;
+        background-color: rgb(251, 249, 249 );
+           padding: 20px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -198,7 +197,7 @@ color: white;
     
 
     }
-    .w h6{
+     .w h6{
 color: grey;
     }
     .w h1{
@@ -286,9 +285,7 @@ color: blueviolet;
          
             
         }
-        .parentsec{
-            
-        }
+       
         .sora{
             display: flex;
             justify-content: center;
@@ -300,7 +297,6 @@ color: blueviolet;
     
          }
     
->>>>>>> douaa
     
     
 
