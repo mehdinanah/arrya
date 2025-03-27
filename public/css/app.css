@@ -121,6 +121,68 @@ color: white;
     gap: 50px;
 
 }
+.parentsec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(106, 5, 247);
+    color: white;
+    width: 100vw;
+    height: 50vh;
+    }
+    
+    .B{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+        padding: 30px;
+    }
+    .A{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px;
+    
+    }
+    .C{
+        border-bottom:1px solid white ;
+    }
+    .B h1{
+    font-size: 70px;
+    }
+    .B h6{
+    font-weight: normal;
+    }
+    .parent{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 70px;
+    }
+    .tch{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px;
+        padding: 20px;
+    }
+    .img{
+        padding: 50px;
+    }
+    .tch i{
+    padding: 5px;
+    }
+    .tch p{
+    color: gray;
+    font-weight: normal;
+    }
+    
+    
+    
 
 
 
