@@ -171,7 +171,7 @@ color: white;
         gap: 20px;
         padding: 20px;
     }
-    .sora{
+    .img{
         padding: 50px;
     }
     .tch i{
@@ -286,11 +286,9 @@ font-size: 40px;
         .parentsec{
             
         }
-        .sora{
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 10px;
+        .img{
+        display: none;
+        
         
             
         }
