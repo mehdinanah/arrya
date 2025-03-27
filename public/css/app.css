@@ -26,8 +26,10 @@ nav{
 .b1{
 background-color: blue;
 border: none;
-border-radius: 300px;
+/* border-radius: 300px; */
 color: white;
+width: 5vw;
+height: 3vh;
 
 
 }
@@ -48,13 +50,16 @@ color: white;
 }
 .header2 button{
     border: none;
-    border-radius: 30px;
     color: white;
     background-color: blue;
+    width: 12vw;
+    height: 4vh;
 }
 .header3{
     display: flex;
     align-items: center;
+    justify-content: center;
+    padding: 35px 0 35px 0;
     
 }
 .sec1{
@@ -68,7 +73,12 @@ color: white;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    
 
+}
+.sec1-title p{
+    width: 30vw;
+    padding-top: 10px;
 }
 .parnte1{
     display: flex;
@@ -88,6 +98,12 @@ color: white;
     
     width: 20%;
 }
+.icn i{
+    background-color: rgb(198, 198, 240);
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    
+}
 .parnte2{
     display: flex;
     justify-content: center;
@@ -100,6 +116,7 @@ color: white;
     align-items: center;
     flex-direction: column;
     gap:15px ;
+    width: 30vw;
 
 }
 .sec2{
@@ -107,18 +124,20 @@ color: white;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding-top: 150px;
+    padding-top: 80px;
 }
  
 .pare{
     display: flex;
     align-items: center;
     gap: 50px;
+    padding-top: 40px;
 }
 .pare2{
     display: flex;
     align-items: center;
     gap: 50px;
+    padding-top: 80px;
 
 }
 
