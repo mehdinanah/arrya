@@ -183,7 +183,8 @@ color: white;
     
     .fotre{
         background-color: rgb(251, 249, 249);
-        padding: 20px;
+     
+           padding: 20px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -197,7 +198,7 @@ color: white;
     
 
     }
-    .w h6{
+     .w h6{
 color: grey;
     }
     .w h1{
@@ -261,7 +262,38 @@ font-size: 40px;
             
 
         }
+        .fotre{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            
+        }
+        .q{
+            display: none;
+        }
+        .parent{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            
+    
+            
+         
+            
+        }
+        .parentsec{
+            
+        }
+        .sora{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 10px;
         
+            
+        }
+    
          }
     
     
