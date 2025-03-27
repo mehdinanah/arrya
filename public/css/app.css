@@ -164,7 +164,7 @@ color: white;
     }
     .tch{
         display: flex;
-        justify-content: center; */
+        justify-content: center; 
          align-items: center;
         flex-direction: column;
         gap: 20px;
@@ -179,10 +179,8 @@ color: white;
     .tch p{
     color: gray;
     font-weight: normal;
-<<<<<<< HEAD
     } 
-=======
-    }
+    
     .fotre{
         background-color: rgb(251, 249, 249);
         padding: 20px;
@@ -266,7 +264,6 @@ font-size: 40px;
         
          }
     
->>>>>>> douaa
     
     
 
