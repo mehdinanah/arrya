@@ -126,7 +126,7 @@ color: white;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: rgb(106, 5, 247);
+    background-color: rgb(75, 0, 128);
     color: white;
     /* width: 100vw; */
     height: 50vh; 
@@ -180,7 +180,64 @@ color: white;
     color: gray;
     font-weight: normal;
     }
+    .fotre{
+        background-color: rgb(251, 249, 249);
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .w{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
     
+
+    }
+    .w h6{
+color: grey;
+    }
+    .w h1{
+font-size: 19px;
+text-align: center;
+    }
+    .x{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 20px;
+        gap: 10px;
+    }
+    input{
+        width: 100%;
+        height: 30px;
+    }
+    button{
+        background-color: rgb(75, 0, 128);
+        width: 100%;
+        height: 30px;
+        border: none;
+    }
+    .x p{
+color: grey;
+display: flex;
+justify-content: center;
+text-align: center;
+    }
+    .q{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 450px;
+        color: grey;
+    }
+    .q h3{
+color: blueviolet;
+    }
+
     
     
 
