@@ -180,6 +180,30 @@ color: white;
     color: gray;
     font-weight: normal;
     }
+    @media (max-width: 425px){
+     .B{
+
+            flex-direction: column;
+            font-size: 10px;
+            width: 80vw;
+            gap: 1px;
+            padding: 0px; 
+            
+        }
+        .B h1{
+font-size: 40px;
+        }
+
+        .tch{
+            flex-direction: column;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            
+
+        }
+        
+         }
     
     
     
